@@ -1,8 +1,5 @@
-﻿bin/
-obj/
+﻿# Pastas geradas pelo Visual Studio e pelo build do .NET
 .vs/
+bin/
+obj/
 *.user
-*.suo
-*.cache
-*.log
-appsettings.Development.json
