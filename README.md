@@ -120,12 +120,8 @@ Desenvolvido por **Matheus Augusto**
 
 ## ⭐ Observação
 
-Este projeto foi desenvolvido com fins educacionais para prática de conceitos como:
+Projeto de portfólio desenvolvido para praticar conceitos de APIs REST, CRUD e organização em camadas (Controller, Service, Model), com documentação via Swagger
 
-* APIs REST
-* CRUD
-* Organização em camadas (Controller, Service, Model)
-* Documentação com Swagger
 
 ---
 ﻿# cltinder-api-hub
