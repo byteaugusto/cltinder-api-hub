@@ -120,7 +120,7 @@ Desenvolvido por **Matheus Augusto**
 
 ## ⭐ Observação
 
-Projeto de portfólio desenvolvido para praticar conceitos de APIs REST, CRUD e organização em camadas (Controller, Service, Model), com documentação via Swagger
+Projeto de portfólio desenvolvido para praticar conceitos de APIs REST, CRUD e organização em camadas (Controller, Service, Model), com documentação via Swagger.
 
 
 ---
